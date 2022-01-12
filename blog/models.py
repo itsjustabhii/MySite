@@ -2,8 +2,8 @@ from django.db import models
 from django.utils import timezone
 from django.urls import reverse
 # SuperUserInformation
-# User: Jose
-# Email: training@pieriandata.com
+# User: Abhi
+# Email: itsjustabhii@gmail.com
 # Password: testpassword
 
 # Create your models here.
